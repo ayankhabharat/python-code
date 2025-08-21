@@ -1,7 +1,7 @@
 # python-code
 This is python tutorial 
 
-First.py   >> String , Len , Index , Slicing , Functions , Practice Q
+First.py   >> String , Len , Index , Slicing , Functions , Practice Q \n
 Conditional_statement.py   >> If-elif-else , Practice Q
 List and tuples.py   >> List method , tuples method , Practice Q
 Dictionary.py   >> Method , Practice Q
